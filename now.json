@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "routes": [
+  	{"src": "/(.*)","dest": "https://dev-my-beauty-size.pantheonsite.io/$1"}
+  ]
+}
